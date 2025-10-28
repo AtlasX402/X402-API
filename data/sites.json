@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "name": "Example Resource",
+    "description": "A tool for x402 payments",
+    "url": "https://example.com",
+    "tags": ["API", "Payments"]
+  }
+]
